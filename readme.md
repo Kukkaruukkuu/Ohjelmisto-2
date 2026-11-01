@@ -5,7 +5,7 @@ Milla Sundell
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa]()
+[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~millsu)
 
 Tehdyt tehtävät:
 

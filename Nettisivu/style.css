@@ -1,14 +1,107 @@
-body {background-color: bisque;}
-
-.box {
-  width: 500px;
-  padding: 200px;
-  border: 4px solid black;
-  margin: 20px;
-  background-color: lightblue;
+body {
+  margin: 0px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.5;
+  background-color: rgb(66, 4, 4);
+  background-image: url("https://d3qqidoz8mm2hm.cloudfront.net/wp-content/uploads/2017/08/d36d7POF_Wallpaper_1920x1200_4.jpg");
 }
 
-img {
-  max-width: 50%;
-  height: auto;
+.contentbox{
+  background-color: rgba(255, 255, 255, 0.498);
+  padding: 30px;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
 }
+
+.valikko{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: right;
+  background-image: linear-gradient(to bottom left, rgb(163, 11, 11), black);
+  margin-top: 0px;
+}
+
+.logo{
+  margin-right: auto;
+  padding: 1px;
+  width: 150px;
+}
+
+.textbox{
+  margin-right: 50px
+}
+
+a{
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.kansikuva{
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  width: 795px;
+}
+
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* products sivu */
+
+.tuotelaatikko{
+  background-color: white;
+  gap: 50px;
+
+}
+
+.tuotteetkansi{
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  width: 795px;
+}
+
+.tuotekuvat{
+  display: flex;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.tuotekuva1{
+  width: 200px;
+  height: 300px;
+}
+
+.tuotekuva2{
+  width: 200px;
+  height: 300px;
+}
+
+.tuotekuva3{
+  width: 200px;
+  height: 300px;
+}
+
+.tuoteotsikko{
+  display: flex;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.tuotetekstit{
+  display: flex;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+}
+/* contacts sivu */
+
