@@ -41,8 +41,12 @@ Tehdyt tehtävät:
 
 Tehdyt tehtävät:
 
-- Tehtävä x: x p
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 7: 2 p
 
-**Yhteensä xp**
+**Yhteensä 10p**
 
 ---
